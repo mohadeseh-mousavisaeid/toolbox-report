@@ -2,16 +2,16 @@ Date: 05.12.2024
 
 Fatal Errors:
 
-1- Crash upon converting.
-2- Some files are damaged and failed to convert. For example: 12_1_0_1. (+screenshot no. 1,2)
-3- '.bdl' has been set twice for a file for example 12_1_1_1.  (+screenshot no. 3)
-4- There are 670 columns for EEG .csv, in spite of the fact that we have 64 channel for it.
+- Crash upon converting.
+- Some files are damaged and failed to convert. For example: 12_1_0_1. (+screenshot no. 1,2)
+- '.bdl' has been set twice for a file for example 12_1_1_1.  (+screenshot no. 3)
+- There are 670 columns for EEG .csv, in spite of the fact that we have 64 channel for it.
 
 UI rlated errors:
 
-1- Bring some popup windows to the top layer.
-2- In robotarm/ training Sequence: Set 0 (default value) as a placeholder instead of actual value (+screenshot no. 4)
-3- Set an empty page for the sections which do not have right window. For example robotarm
+- Bring some popup windows to the top layer.
+- In robotarm/ training Sequence: Set 0 (default value) as a placeholder instead of actual value (+screenshot no. 4)
+- Set an empty page for the sections which do not have right window. For example robotarm
 
 
 
