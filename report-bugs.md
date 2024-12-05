@@ -7,7 +7,7 @@ Fatal Errors:
 - '.bdl' has been set twice for a file for example 12_1_1_1.  (+screenshot no. 3)
 - There are 670 columns for EEG .csv, in spite of the fact that we have 64 channel for it.
 
-UI rlated errors:
+UI related errors:
 
 - Bring some popup windows to the top layer.
 - In robotarm/ training Sequence: Set 0 (default value) as a placeholder instead of actual value (+screenshot no. 4)
